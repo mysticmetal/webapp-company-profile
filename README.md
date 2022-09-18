@@ -48,7 +48,7 @@
 # How To Install
 <br/>
 <br/>
-<strong>Clone this repository using command <em>git clone https://github.com/sanz404/webapp-company-profile-lumen.git</em></strong>
+<strong>Clone this repository using command <em>git clone https://github.com/sand404/webapp-company-profile.git</em></strong>
 <br/>
 
 <br/>
